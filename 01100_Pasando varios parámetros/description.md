@@ -12,7 +12,7 @@ procedure DibujarLinea3(color, direccion) {
 }
 ```
 
-> Escribí un `program` que use la nueva versión de `DibujarLinea3` (no tenés que crearla, sólo usarla) y dibuje un cuadrado multicolor como este:
+> Creá un `program` que invoque la nueva versión de `DibujarLinea3` (no tenés que definirla, sólo invocarla) y dibuje un cuadrado multicolor como este:
 >
 <gs-board>
   GBB/1.0
