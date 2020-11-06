@@ -1,8 +1,8 @@
 procedure DibujarLineaNegra3() {
-  Poner(Negro)
-  Mover(Este)
-  Poner(Negro)
-  Mover(Este)
+  repeat(2) {
+    Poner(Negro)
+    Mover(Este)
+  }
   Poner(Negro)
   VolverAtras()
 }
