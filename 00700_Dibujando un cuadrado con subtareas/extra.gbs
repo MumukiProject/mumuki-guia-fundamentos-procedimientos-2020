@@ -4,10 +4,10 @@ procedure VolverAtras() {
 }
 
 procedure DibujarLineaNegra3() {
-  repeat(2) {
-    Poner(Negro)
-    Mover(Este)
-  }
+  Poner(Negro)
+  Mover(Este)
+  Poner(Negro)
+  Mover(Este)
   Poner(Negro)
   VolverAtras()
 }
