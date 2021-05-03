@@ -3,7 +3,7 @@ procedure VolverAtras() {
 	Mover(Oeste)
 }
 
-procedure DibujarLineaNegra3() {
+procedure DibujarLineaNegra3(){
   Poner(Negro)
   Mover(Este)
   Poner(Negro)
@@ -11,4 +11,3 @@ procedure DibujarLineaNegra3() {
   Poner(Negro)
   VolverAtras()
 } 
-
