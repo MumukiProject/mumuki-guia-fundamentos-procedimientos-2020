@@ -1,4 +1,4 @@
-¡Ya podemos dibujar nuestro cuadrado! El cual debería verse así:
+¡Ya podemos dibujar nuestro cuadrado! Debería quedar así:
 
 <gs-board>
   GBB/1.0
