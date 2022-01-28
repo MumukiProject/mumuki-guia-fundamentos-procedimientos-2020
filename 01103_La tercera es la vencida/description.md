@@ -1,4 +1,4 @@
-Para terminar esta lección vamos a definir un procedimiento  llamado `Triada` ¡que recibe tres parámetros! :open_mouth:
+Para terminar esta lección, vamos a definir un procedimiento  llamado `Triada` ¡que recibe tres parámetros! :open_mouth:
 
 `Triada` recibe tres colores por parámetro y pone tres bolitas, una al lado de la otra hacia el Este, en el mismo orden en que se reciben. El cabezal empieza en el origen y debe terminar sobre la última bolita de la tríada.
 
