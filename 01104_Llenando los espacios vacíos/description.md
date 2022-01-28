@@ -1,4 +1,4 @@
-Entendamos qué acabamos de hacer. :sweat_smile:
+Analicemos qué acabamos de hacer. :sweat_smile:
 
 Lo primero que hicimos fue definir un procedimiento, pero con una pequeña diferencia: toma un _parámetro_, llamado `color`.
 
@@ -42,7 +42,7 @@ Poner(Rojo)
 Poner(Rojo)
 ```
 
-Fijate como cada vez que aparece `color` se reemplaza por el valor que le _pasamos_ a `Poner` :raised_hands:. Veamos si se entiende:
+Fijate como cada vez que aparece `color` se reemplaza por el valor que le _pasamos_ a `Poner` :raised_hands:. Probemos si se entiende:
 
 > Creá un programa que ponga tres bolitas verdes. No te olvides de invocar el procedimiento `Poner3`.
 
