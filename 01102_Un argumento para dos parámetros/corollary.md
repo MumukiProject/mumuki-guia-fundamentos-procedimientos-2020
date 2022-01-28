@@ -1,4 +1,4 @@
-¡BOOM de nuevo :boom:! Como te imaginarás, si le pasamos más argumentos de los que espera pasará lo mismo. :wink:
+¡BOOM de nuevo :boom:! Como te imaginarás, si le pasamos más argumentos de los que espera el resultado va a ser el mismo. :wink:
 
 Entonces es importante recordar que al invocar un procedimiento **no debemos**:
 
