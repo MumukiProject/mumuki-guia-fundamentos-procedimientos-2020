@@ -1,4 +1,4 @@
-Analicemos qué acabamos de hacer. :sweat_smile:
+Analicemos lo que acabamos de hacer. :sweat_smile:
 
 Lo primero que hicimos fue definir un procedimiento, pero con una pequeña diferencia: toma un _parámetro_, llamado `color`.
 
