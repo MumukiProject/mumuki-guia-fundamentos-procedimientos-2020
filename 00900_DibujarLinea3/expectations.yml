@@ -12,3 +12,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: DibujarLinea3
   inspection: Not:Uses:DibujarLineaNegra3
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarLinea3
+  inspection: Not:Uses:IrAlBorde
